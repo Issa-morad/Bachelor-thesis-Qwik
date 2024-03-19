@@ -43,5 +43,6 @@
   },
   "dependencies": {
     "@unpic/qwik": "^0.0.44"
+    "pexels": "^1.4.0"
   }
 }
