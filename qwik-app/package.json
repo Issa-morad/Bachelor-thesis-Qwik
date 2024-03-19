@@ -42,6 +42,7 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "dependencies": {
+    "@unpic/qwik": "^0.0.44"
     "pexels": "^1.4.0"
   }
 }
